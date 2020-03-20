@@ -5,5 +5,4 @@ index = 0
 def position_taken?(board, index)
    if index[0] == " " || ""
      return false 
-   elsif
 end
